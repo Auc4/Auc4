@@ -3,7 +3,7 @@
 
 I am a data professional driven by the passion to convert complex manual processes into efficient and scalable software solutions. My focus lies at the intersection of **Data Science, Python, SQL, and the automation of data workflows (ELT/ETL)**, all built upon robust **Linux Systems** environments.
 
-[Link to your LinkedIn] | [Link to your Power BI/Tableau Portfolio (if applicable)] | [Link to your Email]
+[LinkedIn](www.linkedin.com/in/sebastián-aucapiña-9a78872b7) | [My Email](mailto:sebrafa14@gmail.com)
 
 ---
 
@@ -11,10 +11,10 @@ I am a data professional driven by the passion to convert complex manual process
 
 | Category | Proficiency | Key Technologies |
 | :--- | :--- | :--- |
-| **Data Core** | **Expert** | Python (Pandas, Scikit-learn, Requests), SQL (PostgreSQL, MySQL), **ELT/ETL** Processes |
-| **Systems/Infra** | **Expert** | **Linux (Arch, Hyprland, Zsh/Vim)**, Security (LUKS Disk Encryption), Shell Scripting |
+| **Data Core** | **Expert** | Python (Pandas, Requests), SQL (SQL Server, MySQL), **ELT/ETL** Processes |
+| **Systems/Infra** | **Expert** | **Linux (Arch, Hyprland, Zsh/Vim)**, Shell Scripting |
 | **Programming** | **Advanced** | GoLang (Go), Web Development (HTML/CSS) |
-| **Reporting/BI** | Intermediate | Microsoft Excel, Map Creation for **Power BI/Tableau** Presentations |
+| **Reporting/BI** | Intermediate | Microsoft Excel, Map Creation for **Power BI** Presentations |
 
 ---
 
@@ -26,13 +26,13 @@ These projects showcase my ability to deliver measurable value through software 
 > **Category:** Data Automation / BI Preparation.
 > **Description:** An advanced **Python** script leveraging the **Nominatim API** to automate the accurate fetching of geographic coordinates (Lat/Lon) from large volumes of textual data.
 > **Impact:** Eliminated a time-consuming manual data entry process, providing clean, geo-referenced data for the creation of a high-impact visual report in **Power BI**.
-> **[View Repository: Link to Nominatim Project]**
+> **[View Repository: Link to Nominatim Project](https://github.com/Auc4/get-coords)**
 
 ### 2. ⚙️ Infrastructure & Systems (The Robust Data Scientist Foundation)
 > **Category:** DevOps / Linux Customization
 > **Description:** Demonstration of a fully customized Arch Linux working environment utilizing the *Hyprland* window manager. Setup includes total disk encryption with **LUKS**, optimized **NVIDIA** driver configuration, and a **Zsh/Vim** command workflow.
 > **Relevance:** Highlights deep operating system knowledge, which is crucial for the **scalability, performance, and security** of development and production data environments.
-> **[View Captures / Config Files: Link to Hyprland/Dotfiles Repository (to be created)]**
+> **[View more details about my project]()**
 
 ---
 
