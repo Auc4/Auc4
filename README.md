@@ -34,6 +34,12 @@ These projects showcase my ability to deliver measurable value through software 
 > **Relevance:** Highlights deep operating system knowledge, which is crucial for the **scalability, performance, and security** of development and production data environments.
 > **[View more details about my project]()**
 
+### 3. ✏️ Team Leadership and Organization (Learning Repository)
+> **Category:** Mentorship / Communication.
+> **Description:** Developed a repository with practical **HTML/CSS** exercises designed for non-technical users. This project demonstrates my ability to **coordinate training, simplify technical concepts, and lead** educational initiatives with large teams.
+> **Impact:** Fosters foundational programming literacy across the organization, translating complex knowledge into accessible learning tracks.
+> **[View Repository: Link to HTML/CSS Project](https://github.com/Auc4/ejercicios_vinculacion)**
+
 ---
 
 ## 🗣️ Leadership & Communication
