@@ -1,7 +1,10 @@
 # 👋 Hello, I'm Sebastián Aucapiña. | @Auc4
 ### 🧑‍💻 Data Science & Automation Specialist (Python, SQL, Linux)
 
-I am a data professional driven by the passion to convert complex manual processes into efficient and scalable software solutions. My focus lies at the intersection of **Data Science, Python, SQL, and the automation of data workflows (ELT/ETL)**, all built upon robust **Linux Systems** environments.
+I am a data professional driven by the passion to convert complex manual processes into efficient and scalable software solutions. My focus lies at the intersection of **Data Science, Python, SQL, and the automation of data workflows (ELT/ETL)**, all built upon robust **Linux Systems** environments. 
+
+<!-- Cambia esto según el puesto al que apliques -->
+I'm applying for the Data Scientist job due to my abilities and interests in this area, being thrilled for develop new proyects and learn more.
 
 [LinkedIn](www.linkedin.com/in/sebastián-aucapiña-9a78872b7) | [My Email](mailto:sebrafa14@gmail.com)
 
